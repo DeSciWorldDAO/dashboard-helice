@@ -1,1 +1,21 @@
-
+{"name":"Helice",
+"tokenSymbol":"H",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Helice is an innovative financial engineering based on Polygon, with the goal of reducing the cost of bionic prosthetics and artificial organs by half. This encompasses technologies such as retinal implants, prosthetic arms, neuroprosthetics, artificial hearts, and exoskeletons, among others. Furthermore, it aims to expedite the advancement of these technologies through its upcoming research laboratory. Helice has forged numerous partnerships with great companies and startups in the field and has a extensive network of advisors with varied backgrounds and expertise.",
+"whitePaperLink":"https://helice-prosthesis.fr/wp-content/uploads/English-version-Lite-Paper-11.pdf",
+"gallery":[],
+"deleted":false,
+"primaryColor":"#f8c007",
+"twitterHandle":"Helice_H",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/9mp3BnH.png",
+"telegramLink":"https://t.me/HeliceOfficial",
+"discordLink":"",
+"website":"https://helice-prosthesis.fr/",
+"tokenDescription":"Max Supply of 1 Unit divisible into 18 decimal places. $Helice or $H",
+"tokenTradeLink":"",
+"tags":["Decentralized biotech" , "Focused Research", "Decentralized funding", "Science DeFi", "Biopharma"]
+  
+}
